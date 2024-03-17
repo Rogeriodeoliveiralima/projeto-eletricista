@@ -130,5 +130,6 @@
 .secao3__container__especialidades__especialidade{
     background: linear-gradient(#159EED,#159EED,#1D1EF0);
     display:grid;
-    grid-template-columns: 150px 140px;
+    grid-template-columns:240px;
+    height: 400px;
 }
