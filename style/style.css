@@ -92,6 +92,7 @@
     align-items:center;
     justify-content: center;
     gap: 10px;
+    margin-bottom: 80px;
 }
 .secao2__container_imagem-eletrecista_lado{
     margin-top: 82px;
@@ -111,4 +112,23 @@
     color:white;
     font-size: 18px;
     margin-top: 40px;
+}
+/* estilo seção-3 container */
+.secao3__container__titulo{
+    display: flex;
+    justify-content: center;
+}
+.secao3__container__especialidades{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 50px;
+    padding: 50px 50px;
+}
+.secao3__container__especialidades__especialidade{
+    background: linear-gradient(#159EED,#159EED,#1D1EF0);
+    display:grid;
+    grid-template-columns: 150px 140px;
 }
