@@ -325,9 +325,41 @@ input{
 
 /* incio secão 7*/
 
+
 .secao__7__container{
     background: url(/assets/depoimento.jpg);
     width: 100%;
-    height: 600px;
+    height: 1900px;
+}
+.secao__7__container__titulo{
+    color: white;
+}
+.foto__secao__7{
+    width: 200px;
+    border-radius: 380px;
+    margin-top: 70px;
 }
 
+.clientes_seção_7{
+    color: white;
+   
+}
+.texto_seção_7{
+    color: white;
+}
+.secao__7__container__conteudo{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    align-items: center;
+    margin: 0 162px 0 40px;
+    padding: 30px;
+}
+.column{
+    padding-top: 100px;
+}
+.column__conteudo{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}   
