@@ -356,10 +356,27 @@ input{
     padding: 30px;
 }
 .column{
-    padding-top: 100px;
+    padding-top: 100px  40px;
 }
 .column__conteudo{
     display: flex;
     flex-direction: column;
-    gap: 10px;
-}   
+    align-items: center;
+    background: #0736d0;
+    margin-top: 50px;
+    padding: 10px;
+    height: 510px;
+    border-radius: 20px;
+    opacity: 60%;
+} 
+.clientes_seção_7{
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;  
+}
+.texto_seção_7{
+ font-family: MontSerrat, sans-serif;
+ font-size: 18px;
+ font-weight: 200;
+}
+    
