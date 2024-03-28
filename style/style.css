@@ -375,7 +375,7 @@ input{
     padding: 10px;
     height: 510px;
     border-radius: 20px;
-    opacity: 80%;
+    opacity: 70%;
     
 } 
 .clientes_seção_7{
@@ -386,6 +386,21 @@ input{
 .texto_seção_7{
  font-family: MontSerrat, sans-serif;
  font-size: 18px;
- font-weight: 200;
+ font-weight:bold;
 }
+
+/* incio secão 8*/
+
+.garantia__conteudo{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   margin: 0 30%;
+}
+.garantia__imagem{
+    width: 20%;
+    display: flex;
+    
+}
+
     
