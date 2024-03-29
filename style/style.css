@@ -395,12 +395,20 @@ input{
    display: flex;
    flex-direction: column;
    text-align: center;
-   margin: 0 30%;
+   align-items: center;
+  
+   
 }
 .garantia__imagem{
     width: 20%;
     display: flex;
     
+}
+.secao__8__titulogarantia{
+    font-family: Popins;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px;
 }
 
     
