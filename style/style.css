@@ -414,6 +414,7 @@ input{
     font-weight: bold;
      margin-top: 50px;
      color: white;
+     text-transform: uppercase;
 }
 .secao__8__paragrafo{
     font-family: Poppins;
